@@ -1,1 +1,2 @@
-create the main phyton file
+import streamlit
+streamlit.title('My Parents New Healthy Diner')
